@@ -37,7 +37,7 @@ sections:
       text: |-
         I am a research statistician with a passion for developing statistical methods and models for impactful real-world problems. I specialize in research relating to environmental health, but I am always excited to work in new fields!
 
-        If you are interested in collaboration or consulting services, please email me at [my email](mailto:lduttweiler@hsph.harvard.edu). [def] <mailto:lduttweiler@hsph.harvard.edu> <lduttweiler@hsph.harvard.edu> *lduttweiler@hsph.harvard.edu*
+        If you are interested in collaboration or consulting services, please reach out! 
     design:
       columns: '1'
   - block: collection
