@@ -178,4 +178,4 @@ skills:
 
 ## About Me
 
-Luke Duttweiler is a postdoctoral researcher in the Biostatistics department at the Harvard T.H. Chan School of Public Health. His research interests include Bayesian inference, multivariate analysis, and critical-windows research. His work focuses on improving statistical analyses in environmental health and biomedical applications.
+Luke Duttweiler is a postdoctoral researcher in the Biostatistics department at the Harvard T.H. Chan School of Public Health. His work focuses on improving statistical analyses in environmental health and biomedical applications by developing applicable and accessible methodology.
